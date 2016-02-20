@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   id="svg5137"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="IJBigLogoInverted.svg">
+  <defs
+     id="defs5139" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="200"
+     inkscape:cy="383"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="778"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5142">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3001"
+       sodipodi:cx="5.090909"
+       sodipodi:cy="6.909091"
+       sodipodi:rx="28.90909"
+       sodipodi:ry="27.454546"
+       d="m 33.999999,6.909091 a 28.90909,27.454546 0 1 1 -57.81818,0 28.90909,27.454546 0 1 1 57.81818,0 z"
+       transform="matrix(10.801626,0,0,10.801626,451.2668,321.37058)"
+       inkscape:export-filename="C:\Users\Israel\OneDrive\ResumeWebsite\dist\IJLogoInverted.png"
+       inkscape:export-xdpi="64.848724"
+       inkscape:export-ydpi="64.848724" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:32.40487671000000300;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+       d="m 386.05026,391.09012 c 0,0 -31.4229,13.74755 -60.88185,4.90988 -29.45895,-8.83767 -31.88057,-37.55623 -35.51921,-9.24446 -4.99316,38.8502 8.31585,70.32204 30.94634,99.47465 31.7732,40.93028 74.84468,59.58523 107.6504,56.82649 34.20033,-2.87615 138.19222,-1.9013 163.38421,-90.46847 C 615.35743,369.1705 621.60747,250.63313 608.0564,209.59494 566.53462,83.850436 498.81988,142.48429 463.46907,198.45636 c -35.35069,55.97206 -51.07214,170.06862 -14.12528,250.44223 38.32244,83.36597 83.13007,89.14949 93.93169,89.14949 10.80163,0 26.44768,0.0432 60.40539,-7.75697 25.41191,-5.8398 98.27838,-73.99643 98.27838,-73.99643"
+       id="path3781"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssssssc"
+       inkscape:export-filename="C:\Users\Israel\OneDrive\ResumeWebsite\dist\IJLogoInverted.png"
+       inkscape:export-xdpi="64.848724"
+       inkscape:export-ydpi="64.848724" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:32.40487671000000300;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 605.80545,383.028 c 0,0 -4.29592,107.17611 -80.54514,227.7484 -60.96178,96.39835 -117.78179,42.70012 -99.98708,-11.10969 11.08517,-33.5208 105.03847,-61.49171 113.8742,-62.49194 73.60152,-8.33227 51.38225,12.49834 143.03707,-63.8806"
+       id="path3783"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="C:\Users\Israel\OneDrive\ResumeWebsite\dist\IJLogoInverted.png"
+       inkscape:export-xdpi="64.848724"
+       inkscape:export-ydpi="64.848724" />
+  </g>
+</svg>
